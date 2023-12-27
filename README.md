@@ -11,8 +11,8 @@
 </div>
 <div id="badges" align="center">
   
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedragab2)
-  [![coursera](https://img.shields.io/badge/Coursera-000?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/3080e5bd336ed4375ad8a41afc679e98)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geophmohamed)
+  [![coursera](https://img.shields.io/badge/Coursera-000?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/6fe1bec10a4cf031bec5d30c8850c93e)
   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedRagabFer)
   
 </div>

@@ -45,7 +45,7 @@ in a challenging environment and building my knowledge about engineering and com
 
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MohamedRagaab&show_icons=true&theme=radical)
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRagaab&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mohamed-said-salah&show_icons=true&theme=radical)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-said-salah&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
   
 </div>

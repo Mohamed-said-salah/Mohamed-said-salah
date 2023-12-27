@@ -36,7 +36,7 @@ in a challenging environment and building my knowledge about engineering and com
  * focused on improving my ability of Mobile applications development using [**Flutter**](https://flutter.dev/)
 
 
- * Confident (+4 years)practicing python in backend development and data analysis [**Python**](https://www.python.org/) 
+ * Confident (+4 years) practicing python in backend development and data analysis [**Python**](https://www.python.org/) 
 
  * Download My [Resume](https://drive.google.com/file/d/169t1XmJecGsVZtyvZ1X0gOK7jUsdSa0e/view?usp=share_link) 
  * My [Blog](https://hashnode.com/@MohamedSaied)

@@ -28,7 +28,7 @@
 ##   <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height="50" >    About me
 
  * Software Engineer specialized in Mobile applications and backend development  looking forward to working
-in a challenging environment and building my knowledge about engineering and computer science.
+in a challenging environment and building my knowledge about computer science.
 
 
  * I'm currently focused on improving my ability of Mobile applications development using [**Flutter**](https://flutter.dev/) - [**Kotlin**](https://kotlinlang.org/) - [**Swift**](https://www.swift.org/)

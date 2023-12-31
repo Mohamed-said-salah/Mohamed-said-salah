@@ -39,6 +39,9 @@ in a challenging environment and building my knowledge about engineering and com
  * Confident (+4 years) practicing python in backend development and data analysis [**Python**](https://www.python.org/) 
 
  * Download My [Resume](https://drive.google.com/file/d/1y-KDTwZDdXbj7ZDiDS3RBlKv_AJc5tt1/view?usp=sharing)
+ * My [Blog](https://m-saied.hashnode.dev/) 
+
+ * My Portfolio: [Mohamed Ragab Website](https://Mohamed-said-salah.github.io/MyResume/)
    
  * Ask me about anything, I will be happy to help
 

@@ -37,7 +37,7 @@ in a challenging environment and building my knowledge about engineering and com
  * currently improving my ability of backend development services using [**NodeJs**](https://nodejs.org/en/) - [**MongoDB**](https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_egypt_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624392&adgroup=115749716783&gclid=CjwKCAjwjZmTBhB4EiwAynRmD64zgPCSbK1uJenQbYQDFHX68ZxmRdhk1ViVwtY7Nqt1rMeAwH2vlRoCso4QAvD_BwE)
 
 
- * Confident (+4 years) practicing python in backend development and data analysis [**Python**](https://www.python.org/) 
+ * Confident (+4 years) practicing python in backend development and data analysis [**Python**](https://www.python.org/) - [**FastAPI**](https://fastapi.tiangolo.com/) - [**Pandas**](https://pandas.pydata.org/) - [**Matplotlib**](https://matplotlib.org/)
 
  * Download My [Resume](https://drive.google.com/file/d/1y-KDTwZDdXbj7ZDiDS3RBlKv_AJc5tt1/view?usp=sharing)
  * My [Blog](https://m-saied.hashnode.dev/) 
